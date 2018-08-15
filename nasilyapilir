@@ -1,0 +1,6 @@
+Maputnik uygulamasını  https://github.com/maputnik/editor github deposundan indirip npm install komutu ile yüklüyoruz.
+Eğer bilgisayarınız dışında diğer bilgisayarların da erişmesi gereken bir yapı kurmak istiyorsanız config dosyasına çıkış yapmak istediğiniz portu giriniz ve o portu bilgisayarınızın firewall'unun engellemediğinden emin olunuz.
+indirilen klasör içerisinde npm start komutu ile maputnik uygulamasını çalıştırınız.
+Config dosyasına girdiğiniz adres üzerinden uygulamaya erişiniz.
+şifresiz olarak yayınlanmış bir vector tile servis Esri vector tile root.json linkine erişim sağlayıp tamamını seçerek lokal bir adrese kaydediniz.
+Kaydettiğiniz Json dosyasında yer alan 
